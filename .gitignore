@@ -13,3 +13,5 @@ Desktop.ini
 *.temp
 *.bak
 *~
+# Cisco course activity files
+*.pka
