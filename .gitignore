@@ -1,0 +1,15 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*~
